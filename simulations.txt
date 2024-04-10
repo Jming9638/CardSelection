@@ -1,0 +1,6 @@
+Situations:
+1. card01: zero features
+2. card02: dining - 2% cashback, fuel - 2% cashback, retails - 5% cashback
+3. card03: dining - 8pts, fuel - 5pts, online_transactions - 2pts
+4. card04: retails - 20 discount, online_transactions - 5pts, insurance - 3% cashback, miles - 8pts
+5. card05: fuel - 5% cashback, online_transactions - 10 discount, miles - 12pts, entertainments - 5 discount
